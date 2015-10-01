@@ -15,6 +15,16 @@ All Item Pools:
 	Abaddon
 	Breath of Life
 	Guardian Angel
+	Magic Fingers
+	Remote Detonator
+	Dead Cat
+	Lil' Brimstone
+	Blue Map
+	Book of Secrets
+	Crystal Ball
+	Missing No
+	Soy Milk
+	Mind
 	
 Treasure Room:
 	20/20
@@ -48,7 +58,23 @@ Angel Room:
 	Celtic cross
 	Prayer Card	
 		
-
+Secret Room:
+	Samson's Chains
+	Blank Card
+	Mystery Sack
+	Missing page 2
+	Infamy
+	Black Lotus
+	Lost Contact
+	Pyro
+	Bomb Bag
+	Forget Me Now
+	Sack of Pennies
+	The Necronomicon
+	Transcendence
+	Skeleton Key
+	Raw Liver
+	1up!
 
 Added Items:
 
@@ -103,6 +129,7 @@ Room Changes:
 	2 / 1 Item Deals 
 	Krampus Removed -> Now regular DD Room
 	Secret Room Items appear on a 1/2 chance
+	Treasure Map / Compass chance doubled in shops
 	
 Isaac
 	Theme: Orbital Damage + Piercing
@@ -223,12 +250,10 @@ Lazarus
 	Health: 3
 	- D6 (105)
 	- Soy (330)
-	- Cricket's Body (224)
 	- Rubber Cement (221)
 	- Strange Attractor (315)
 	- Blood Clot (254)
-	- Chem Peel (154)
-	- Choco Milk (69)
+	- Cricket's Head (4)
 	- Mom's Underwear (29)
 	- Mom's Heels (30)
 	- Mom's Lipstick (31)
