@@ -36,6 +36,11 @@ Treasure Room:
 	Cricket's Body
 	Monstro's Lung
 	Chocolate Milk
+	Tech .5
+	Magic Mushroom
+	Cricket's Head
+	Technology
+	Technology 2
 	
 Devil Room:
 	Brother Bobby
@@ -79,7 +84,6 @@ Secret Room:
 Added Items:
 
 Treasure Room:
-	Sacred Heart
 	Magic 8-Ball
 	Moms Underwear
 	Moms Heels
@@ -123,6 +127,12 @@ Secret Room:
 	Soy Milk
 	???'s Only Friend
 	The Virus
+	Tech .5
+	Magic Mushroom
+	Cricket's Head
+	Technology
+	Technology 2
+	Sacred Heart
 	
 Room Changes: 
 	3 Red Chest Deals Removed
@@ -189,7 +199,11 @@ Judas
 	- D6 (105)
 	- Contact (213)
 	- Lung (229)
-	- Quad (153)
+	- Sacred Heart (182)
+	- Mascara (310)
+	- Poly (169)
+	- Mom's Wig (217)
+	- Meat Cube (73)
 	- More Options (249)
 	Desired Gameplay: 
 		Players look for tear rate, with slow charge speed and 
@@ -207,7 +221,7 @@ Judas
 		
 Eve
 	Theme: Manage me baby. 
-	Health: Max
+	Health: 7
 	-Keeps Whore / Dead Bird
 	- D6 (105)
 	- Whore (122)
@@ -241,13 +255,16 @@ Azazel
 	- Dr. Fetus (52)
 	- Poly (169)
 	- Bob's Curse (140)
+	- 20/20 (153)
+	- Split Shot (104)
+	- Gnawed Leaf (210)
 	Desired Gameplay:
 		Player tries to abuse large damage and flight 
 		while avoiding double exploding bombs
 		
 Lazarus 
 	Theme: Come at m... OVER THERE!
-	Health: 3
+	Health: 4
 	- D6 (105)
 	- Soy (330)
 	- Rubber Cement (221)
@@ -257,6 +274,8 @@ Lazarus
 	- Mom's Underwear (29)
 	- Mom's Heels (30)
 	- Mom's Lipstick (31)
+	- Mom's Contact (110)
+	- Anti Gravity (222)
 	Desired Gameplay:
 		Player does controlled bursts and avoids the 
 		bounce back to draw enemies into a death spot

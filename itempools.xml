@@ -12,16 +12,12 @@
 		<Item Id="31" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Magic 8 Ball-->
 		<Item Id="194" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Sacred Heart-->
-		<Item Id="182" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--The Sad Onion-->
 		<Item Id="1" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--The Inner Eye-->
 		<Item Id="2" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Spoon Bender-->
 		<Item Id="3" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Max's Head-->
-		<Item Id="4" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--My Reflection-->
 		<Item Id="5" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Number one-->
@@ -32,8 +28,6 @@
 		<Item Id="8" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Halo of Flies-->
 		<Item Id="10" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Magic Mushroom-->
-		<Item Id="12" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--<3-->
 		<Item Id="15" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Boom!-->
@@ -80,8 +74,6 @@
 		<Item Id="66" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Sister Maggy-->
 		<Item Id="67" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Technology-->
-		<Item Id="68" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Mini Mush-->
 		<Item Id="71" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Rosary-->
@@ -196,8 +188,6 @@
 		<Item Id="150" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--The Mulligan-->
 		<Item Id="151" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Technology 2-->
-		<Item Id="152" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Chemical peel-->
 		<Item Id="154" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--The Peeper!-->
@@ -286,8 +276,6 @@
 		<Item Id="240" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Infamy-->
 		<Item Id="242" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
-		<!--Tech.5-->
-		<Item Id="244" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Hot Bombs-->
 		<Item Id="256" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Fire Mind-->
@@ -624,6 +612,16 @@
 		<Item Id="69" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 	</Pool>
 	<Pool Name="secret">
+		<!--Sacred Heart-->
+		<Item Id="182" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Tech.5-->
+		<Item Id="244" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Technology 2-->
+		<Item Id="152" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Technology-->
+		<Item Id="68" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Magic Mushroom-->
+		<Item Id="12" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Max's Head-->
 		<Item Id="4" Weight="1" DecreaseBy="0.4" RemoveOn="0.1"/>
 		<!--Mini Mush-->
