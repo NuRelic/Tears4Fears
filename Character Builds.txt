@@ -1,16 +1,15 @@
-
-	
 Isaac
-	Theme: Orbital Damage + Piercing
+	Theme: Control the thing
 	Health: 3 
-	Goal: You want good tears to compliment the tear delay but can go fast while you try to find it. 
 	- D6 (105)
-	- Guillitoine (206)
-	- Cupid's Arrow Start (48)
+	- Ludo (329)
+	- Godhead (331)
+	- My Reflection (5)
+	- Tiny Planet (233)
+	- Homing Bombs (125)
 	Desired Gameplay: 
-		Normal gameplay, the Guillitoine allows 
-		catch-up when played with aggressively to resolve 
-		the lack of big-3/guppy
+		Godhead doesn't constant damage (similar to meat cube) when the aura is doing contact, 
+		players control keep the enemies in the aura and not the tear
 		
 Maggy 
 	Theme: Mom
@@ -56,17 +55,16 @@ Cain
 Judas
 	Theme: LET ME SHOOT
 	- D6 (105)
-	- Sad Onion (1)
 	- Lung (229)
 	- Sacred Heart (182)
-	- Mascara (310)
 	- Quad (153)
+	- Dead Onion (336)
+	- Ball Of Bandages (207)
 	- Mom's Wig (217)
-	- Meat Cube (73)
 	- More Options (249)
 	Desired Gameplay: 
-		Players look for tear rate, with slow charge speed and 
-		no pentration it is the only way to make damage from the build
+		Players look for tear rate, with slow charge speed the ball of bandages must be abused
+		to quickly clear rooms.
 		
 ??? 
 	Theme: GOOOO
@@ -80,11 +78,9 @@ Judas
 		
 Eve
 	Theme: Manage me baby. 
-	Health: 7
-	-Keeps Whore / Dead Bird
+	Health: 6
 	- D6 (105)
 	- Whore (122)
-	- Dead Bird (117)
 	- Ball of Bandages (207)
 	- BFFs! (247)
 	- Charm of the Vampire (62)
@@ -93,7 +89,7 @@ Eve
 	Desired Gameplay: 
 		Keep your red hearts down, if you take risks 
 		of taking red hearts before a DD it might bite 
-		you. Sac Dagger to encourage risky play
+		you. Ball of Bandages to encourage risky play
 		
 Samson
 	Theme: Manage me baby.
@@ -114,14 +110,14 @@ Azazel
 	- Dr. Fetus (52)
 	- Poly (169)
 	- Bob's Curse (140)
-	- 20/20 (153)
+	- Quad (153)
 	- Split Shot (104)
 	- Gnawed Leaf (210)
-	- Bucket of Lard (129)
-	- Thunder Thighs (314)
+	- My Reflection (5)
+	- Homing Bombs (125)
 	Desired Gameplay:
-		Player tries to abuse large damage and flight 
-		while avoiding double exploding bombs
+		Player tries to abuse large damage and flight while avoiding double exploding bombs. 
+		Gnawed leaf to help avoid 2nd explosions
 		
 Lazarus 
 	Theme: Come at m... OVER THERE!
@@ -140,13 +136,29 @@ Lazarus
 	Desired Gameplay:
 		Player does controlled bursts and avoids the 
 		bounce back to draw enemies into a death spot
+
+Eden
+	Theme: Rolls shouldn't matter too much... maybe?
+	- Lung (229)
+	- Guillotine (206)
+	- BFFs (247)
+	- Sac Dagger (172)
+	- Meat Cube (73)
+	- Tiny Planet (233)
+	Desired Gameplay:
+		You can have your tears and your starts, but the lung will RULE ALL
 	
 	
 The Lost 
 	Theme: Play a bit safer, need to be better at clearing a boss without taking 2 hits
 	- D6 (105)
-	- Holy Mantel (313)
+	- Taurus (299)
+	- Gnawed Leaf (210)
+	- Isaac's Heart (276)
+	- Midas Touch (202)
+	- Ball of Bandages (207)
+	- Money = Power (109)
 	- Dead Cat (81)
+	- BFF (247)
 	Desired Gameplay:
-		Player plays isaac with the rooms changes and 
-		ability to actually finish the game!
+		Be Aggressive! Run in and let enemies turn into money to build up your tears early. 
