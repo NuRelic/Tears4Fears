@@ -7,6 +7,9 @@ Isaac
 	- My Reflection (5)
 	- Tiny Planet (233)
 	- Homing Bombs (125)
+	- Libra (304)
+	- Number One (6)
+	- Cricket's Body (224)
 	Desired Gameplay: 
 		Godhead doesn't constant damage (similar to meat cube) when the aura is doing contact, 
 		players control keep the enemies in the aura and not the tear

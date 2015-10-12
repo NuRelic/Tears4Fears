@@ -23,6 +23,9 @@ All Item Pools:
 		Brimstone
 	
 Specific Characters:
+	Isaac: 
+		Parasite
+		
 	The Lost: 
 		Blood Rights
 		Dry Baby
