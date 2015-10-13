@@ -1,13 +1,27 @@
+Special Counter:
+	The following items have been deemed as big game changers, as a result we are re-implementing the special
+	counter on the following items:
+		Parasite
+		Infest 2
+		Rubber Cement
+		Scythes
+		Polyphemus
+		Proptosis
+		20/20
+		Tech .5
+		Tammy's Head
+		
+
 Removed Items:
 
 All Item Pools: 		
-	-- Changing/Breaking builds
+	-Changing/Breaking builds
 		D4/D6/D100
 		Missing No
 		Habit
 		Sharp Plug
 		
-	-- Mapping / Teleport
+	-Mapping / Teleport
 		Blank Card
 		Mind
 		Blue Map
@@ -16,15 +30,61 @@ All Item Pools:
 		Shovel
 		Broken Remote (Trinket)
 		
-	-- OP
+	-OP
 		Knife  
 		Epic  
 		Ipecac
 		Brimstone
 	
 Specific Characters:
+	Azazel:
+		Blue Cap
+		Mascara
+		Pyromaniac
+		Fire Mind
+		Remote Detonator
+
+	Blue Baby:
+		Libra
+		Hive Mind
+		Daddy Longlegs 
+		Rotten Baby 
+		Juicy Sac
+		Forever Alone 
+		Distant Admiration 
+		Pyromaniac
+		???'s Only Friend
+		Orbitals
+		Smart Fly
+		Best Bud
+
+	Cain: 
+		Starter Deck
+		Soy Milk
+
+	Eve:
+		Abaddon
+		Dead Cat
+		Lil' Brim
+		Meat Cube
+		Guillotine
+		Sac Dagger
+
 	Isaac: 
+		Libra
 		Parasite
+
+	Judas:
+		Meat Cube
+		Guillotine
+		Sac Dagger
+		Scythes
+		Chocolate Milk
+		Soy Milk
+		
+	Lazarus: 
+		Libra
+
 		
 	The Lost: 
 		Blood Rights
@@ -37,39 +97,11 @@ Specific Characters:
 		Laz Rags
 		Judas' Shadow
 		Ankh
-
-	Azazel:
-		Blue Cap
-		Mascara
-		Pyromaniac
-		Fire Mind
-		Guppy
-		Magic Fingers
-		Remote Detonator
-	
-	Judas:
-		Meat Cube
-		Guillotine
-		Sac Dagger
-		Scythes
-		Chocolate Milk
-		Soy Milk
-
-	Eve:
-		Abaddon
-		Dead Cat
-		Lil' Brim
-		Meat Cube
-		Guillotine
-		Sac Dagger
 	
 	Samson:
 		Scapular
 		The Wafer
 
-	Cain: 
-		Starter Deck
-		Soy Milk
 	
 Treasure Room:
 	20/20
@@ -147,6 +179,16 @@ Devil Room:
 	3 Dollar bill
 	My Reflection
 	Spoon Bender
+	Infestation 2
+	Infestation
+	Juicy Sac
+	Mom's Wig
+	Mongo Baby
+	Loki's Horns
+	Mulligan
+	Tough Love
+	Sissy Longlegs
+	Tammy's Head
 
 Angel Room:
 	The Sad Onion
@@ -200,3 +242,5 @@ Room Changes:
 	Krampus Removed -> Now regular DD Room
 	Secret Room Items appear on a 1/2 chance
 	Treasure Map / Compass chance doubled in shops
+	Gurdy Spawner removed
+	Heart fight modified for Lost

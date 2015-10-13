@@ -162,6 +162,8 @@
 		<Item Id="131" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Best Friend-->
 		<Item Id="136" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Remote Detonator-->
+		<Item Id="137" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Stigmata-->
 		<Item Id="138" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Bobs Curse-->
@@ -250,6 +252,8 @@
 		<Item Id="217" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Sad Bombs-->
 		<Item Id="220" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Pyromaniac-->
+		<Item Id="223" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Gimpy-->
 		<Item Id="225" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Piggy Bank-->
@@ -268,6 +272,8 @@
 		<Item Id="242" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Hot Bombs-->
 		<Item Id="256" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Fire Mind-->
+		<Item Id="257" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Smart Fly-->
 		<Item Id="264" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Dry Baby-->
@@ -340,6 +346,8 @@
 		<Item Id="308" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Pisces-->
 		<Item Id="309" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Eve's Mascara-->
+		<Item Id="310" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Maggy's Bow-->
 		<Item Id="312" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Holy Mantle-->
@@ -400,6 +408,8 @@
 		<Item Id="102" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--9 Volt-->
 		<Item Id="116" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Remote Detonator-->
+		<Item Id="137" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Moms Purse-->
 		<Item Id="139" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Portable Slot!-->
@@ -528,6 +538,8 @@
 		<Item Id="340" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Torn Photo-->
 		<Item Id="341" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
+		<!--Blue Cap-->
+		<Item Id="342" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Latch Key-->
 		<Item Id="343" Weight="1" DecreaseBy="1.0" RemoveOn="0.1"/>
 		<!--Match Book-->
@@ -908,6 +920,8 @@
 		<Item Id="131" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Bobby - Bomb-->
 		<Item Id="125" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<!--Remote Detonator-->
+		<Item Id="137" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Mr. Mega-->
 		<Item Id="106" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
 		<!--Mr. Boom!-->

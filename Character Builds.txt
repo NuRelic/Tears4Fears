@@ -7,9 +7,7 @@ Isaac
 	- My Reflection (5)
 	- Tiny Planet (233)
 	- Homing Bombs (125)
-	- Libra (304)
-	- Number One (6)
-	- Cricket's Body (224)
+	- Soy (330)
 	Desired Gameplay: 
 		Godhead doesn't constant damage (similar to meat cube) when the aura is doing contact, 
 		players control keep the enemies in the aura and not the tear
@@ -70,14 +68,53 @@ Judas
 		to quickly clear rooms.
 		
 ??? 
-	Theme: GOOOO
+	Theme: He finally has some friends
 	Health: 3
-	- D4 (284)
-	- Lil Brim (275)
+	- Soy (330)
+	- Thin Odd Mushroom (120)
+	- Ludo (329)
+	- Big Fan (279)
+	- Ball Of Bandages (207)
+	- Dry Baby (265)
+	- Mongo Baby (322)
+	- Gish (99)
+	- Demon Baby (113)
+	- Sister Maggy (67)
+	- Little Steven (100)
+	- Robo Baby (95)
+	- Ghost Baby (163)
+	- Harlequin Baby (167)
+	- Rainbow Baby (174)
+	- Headless Baby (269)
+	- Lil' Brim (275)
+	- Cain's Other Eye (319)
+	- ???'s Soul(Trinket: 57)
+	- Punching Bag (281)
+	- Little Chubby (88)
+	- Bob's Brain (273)
+	- Robo Baby 2.0 (267)
+	- Dead Bird (117)
+	- Abel (188)
+	- BBF (272)
+	- Leech (270)
+	- Lil' Haunt (277)
+	- Dark Bum (278)
+	- Bum Friend (144)
 	Desired Gameplay: 
-		Start immediately, push hard until you feel the D4 
-		is in your favor (Item Amount for D4). 
-		Player preference
+		Struggle to keep track of location and learn how to manipulate followers through movement
+		
+	Removal:
+	- Daddy Longlegs (170)
+	- Rotten Baby (268)
+	- Juicy Sac (266)
+	- Forever Alone (128)
+	- Distant Admiration (57)
+	- Pyromaniac
+	- Hive mind
+	- ???'s Only Friend
+	- Orbitals
+	- Smart Fly
+	- Best Bud
 		
 Eve
 	Theme: Manage me baby. 
@@ -118,6 +155,7 @@ Azazel
 	- Gnawed Leaf (210)
 	- My Reflection (5)
 	- Homing Bombs (125)
+	- BBF (272)
 	Desired Gameplay:
 		Player tries to abuse large damage and flight while avoiding double exploding bombs. 
 		Gnawed leaf to help avoid 2nd explosions
@@ -148,6 +186,7 @@ Eden
 	- Sac Dagger (172)
 	- Meat Cube (73)
 	- Tiny Planet (233)
+	- Abel (188)
 	Desired Gameplay:
 		You can have your tears and your starts, but the lung will RULE ALL
 	
@@ -161,7 +200,7 @@ The Lost
 	- Midas Touch (202)
 	- Ball of Bandages (207)
 	- Money = Power (109)
-	- Dead Cat (81)
 	- BFF (247)
+	- 1UP (11) X 10
 	Desired Gameplay:
 		Be Aggressive! Run in and let enemies turn into money to build up your tears early. 
